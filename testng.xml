@@ -1,0 +1,8 @@
+<suite name="Test suites">
+    <parameter name = "specificTagName" value = "h1"></parameter>
+    <test name="Prueba Selenium Basico">
+        <classes>
+            <class name="PruebaNetflixTest"></class>
+        </classes>
+    </test>
+</suite>
